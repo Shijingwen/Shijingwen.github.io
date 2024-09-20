@@ -182,6 +182,18 @@ awards:
   - title: 'MobiCom’22 Best Community Paper Award Runner-Up'
     date: '2022-10-17'
     awarder: 'ACM'
+  - title: 'ACM Sigmobile’24 Research Highlights'
+    date: '2024-08-01'
+    awarder: 'ACM'
+  - title: 'MobiCom’22 Best Community Paper Award Runner-Up'
+    date: '2022-10-17'
+    awarder: 'ACM'
+  - title: 'ACM Sigmobile’24 Research Highlights'
+    date: '2024-08-01'
+    awarder: 'ACM'
+  - title: 'MobiCom’22 Best Community Paper Award Runner-Up'
+    date: '2022-10-17'
+    awarder: 'ACM'
 ---
 
 ## About Me
