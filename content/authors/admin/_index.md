@@ -61,6 +61,7 @@ education:
     date_end: 2025-03-01
     summary: |
       GPA: 4.0/4.0
+      
       Thesis on "Exploring and Addressing the Vulnerabilities of Multimedia Services over Mobile Networks: From
 Infrastructure to Devices". Supervised by [Prof Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). Presented papers at 4 IEEE/ACM conferences with the contributions being published in 4 IEEE/ACM journals.
   - area: MSc Applied Computer Technology
