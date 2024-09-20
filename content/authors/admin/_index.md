@@ -182,6 +182,12 @@ awards:
   - title: 'MobiCom’22 Best Community Paper Award Runner-Up'
     date: '2022-10-17'
     awarder: 'ACM'
+  - title: 'IEEE CNS 2023 Student Travel Grant'
+    date: '2023-10-2'
+    awarder: 'NSF'
+  - title: 'Freshgogo Bug Bounty Reward'
+    date: '2022-02-07'
+    awarder: 'Freshgogo'
 ---
 
 ## About Me
