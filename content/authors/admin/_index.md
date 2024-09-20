@@ -73,7 +73,10 @@ education:
     summary: |
       GPA: 3.3/4.0
 
-      Thesis on _Traffic Prediction and Uncertainty Interval Estimation for E-commerce Clusters_. Supervised by Prof.Chengzhong Xu and Dr.Kejiang Ye. Presented papers at 2 conferences and journals with 4 patents.
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BEng Information Security
     institution: Hunan University
     date_start: 2016-01-01
