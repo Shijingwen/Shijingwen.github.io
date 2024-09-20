@@ -55,28 +55,37 @@ interests:
   - Artificial Intelligence
   
 education:
-  - area: Ph.D. Computer Science
-    institution: Michigan State University
-    date_start: 2019-08-01
-    date_end: 2025-03-01
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 4.0/4.0
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
       
-      Thesis on "Exploring and Addressing the Vulnerabilities of Multimedia Services over Mobile Networks: From
-Infrastructure to Devices". Supervised by [Prof Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). Presented papers at 4 IEEE/ACM conferences with the contributions being published in 4 IEEE/ACM journals.
-  - area: MSc Applied Computer Technology
-    institution: University of Chinese Academy of Sciences
-    date_start: 2016-08-01
-    date_end: 2019-06-01
-    summary: |
-      Thesis on "Traffic Prediction and Uncertainty Interval Estimation for E-commerce Clusters". Supervised by Prof.Chengzhong Xu and Dr.Kejiang Ye. Presented papers at 2 conferences or journals with 4 patents. 
-  - area: BEng Information Security
-    institution: Hunan University
-    date_start: 2012-08-01
-    date_end: 2016-06-01
-    summary: |
-       Thesis on "Visual Search Engine with Crawler System for Information Security Laws". Supervised by Prof.Sheng Xiao.
-      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Senior Associate Research Intern of IoT/IoV Innovation
     company_name: AT&T Lab
