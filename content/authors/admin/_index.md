@@ -191,6 +191,18 @@ awards:
   - title: 'MSU 2020, 2022 Graduate Summer Fellowship'
     date: '2022-06-01'
     awarder: 'Michigan State University'
+  - title: 'First-Class Scholarship'
+    date: '2017-05-01'
+    awarder: 'University of Chinese Academy of Sciences'
+  - title: 'University of Chinese Academy of Sciences Excellent Student Cadre'
+    date: '2017-05-01'
+    awarder: 'University of Chinese Academy of Sciences'
+  - title: 'Google Girl Hackathon in Beijing, Best Practical Award'
+    date: '2017-01-01'
+    awarder: Google
+  - title: ' World Robot Conference 2016 Outstanding Volunteer'
+    date: '2017-01-01'
+    awarder: World Robot Conference
 ---
 
 ## About Me
