@@ -73,7 +73,7 @@ education:
     summary: |
       GPA: 3.3/4.0
 
-      Thesis on 
+      Thesis on _Traffic Prediction and Uncertainty Interval Estimation for E-commerce Clusters_. Supervised by Prof.Chengzhong Xu and Dr.Kejiang Ye. Presented papers at 2 conferences or journals with 4 patents.
   - area: BEng Information Security
     institution: Hunan University
     date_start: 2016-01-01
@@ -81,10 +81,7 @@ education:
     summary: |
       GPA: 3.7/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on
 work:
   - position: Senior Associate Research Intern of IoT/IoV Innovation
     company_name: AT&T Lab
