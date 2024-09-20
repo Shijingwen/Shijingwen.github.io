@@ -129,15 +129,15 @@ skills:
       - name: 3GPP, srsRAN, USRP, QXDM, O-RAN
         description: ''
         percent: 80
-        icon: sniffer
+        icon: sniffer.svg
       - name: Linux, Android, IOS
         description: ''
         percent: 80
-        icon: android
+        icon: android.svg
       - name: Tensorflow, Keras, scikit-learn
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: ai.svg
       - name: MongoDB, HBase, PostgreSQL, Hadoop
         description: ''
         percent: 40
@@ -153,7 +153,7 @@ skills:
       - name: House flower
         description: ''
         percent: 100
-        icon: flower
+        icon: flower.svg
       - name: Photography
         description: ''
         percent: 80
