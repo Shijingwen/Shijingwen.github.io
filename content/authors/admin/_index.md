@@ -37,7 +37,7 @@ profiles:
     url: https://x.com/Jingwen_Shi123
   - icon: brands/instagram
     url: https://www.instagram.com/jingwen_shi_happy/profilecard/?igsh=bXJ1ejF6Z3hraWU=
-  - icon: brands/Github
+  - icon: brands/github
     url: https://github.com/Shijingwen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jingwen-shi-807178156
@@ -59,7 +59,6 @@ education:
     date_start: 2019-08-01
     date_end: 2025-03-01
     summary: |
-      GPA: 4.0/4.0
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
@@ -92,7 +91,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-06-01
-    date_end: 2024-08-09''
+    date_end: 2024-08-09
     summary: |2-
       Responsibilities include:
       - Developed an advanced AI-driven framework for traffic analysis and anomaly detection in 5G/4G networks, integrating machine learning, statistical analysis, and signal processing techniques
