@@ -36,35 +36,38 @@ profiles:
   - icon: brands/x
     url: https://x.com/Jingwen_Shi123
   - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
+    url: https://www.instagram.com/jingwen_shi_happy/profilecard/?igsh=bXJ1ejF6Z3hraWU=
+  - icon: brands/Github
     url: https://github.com/Shijingwen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jingwen-shi-807178156
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=qleSxX8AAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-9635-7551
 
 interests:
+  - Mobile Systems & Networks
+  - Security
+  - Distributed System
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Internet of Things (IoT)/Internet of Vehicles (IoV) 
+  
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Computer Science
+    institution: Michigan State University
+    date_start: 2019-08-01
+    date_end: 2025-03-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 4.0/4.0
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc in Applied Computer Technology
+    institution: University of Chinese Academy of Sciences
+    date_start: 2016-08-01
+    date_end: 2019-06-01
     summary: |
       GPA: 3.8/4.0
 
@@ -72,41 +75,52 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BEng in Information Security
+    institution: Hunan University
+    date_start: 2012-08-01
+    date_end: 2016-06-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.8/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Senior Associate Research Intern of IoT/IoV Innovation
+    company_name: AT&T Lab
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-06-01
+    date_end: 2024-08-09''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Developed an advanced AI-driven framework for traffic analysis and anomaly detection in 5G/4G networks, integrating machine learning, statistical analysis, and signal processing techniques
+      - Submitted one patent
+      - Assisted with the productization
+  - position: Research Intern
+    company_name: Los Alamos National Lab
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-06-01
+    date_end: 2021-08-10
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Built a CPS simulation testbed. Developed an automated framework with SVM/SVD/FSM to re-construct the CPS from observation
+      - Achieved an accuracy of 97\%
+      - Write the paper draft
+  - position: Research Intern
+    company_name: Alibaba
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-01-01
+    date_end: 2019-06-01
+    summary: |
+      Responsibilities include:
+      - Cloud Traffic Prediction:  Designed Bayesian Neural Networks to enhance CNN and LSTM for query (QPS) prediction at Taobao, achieving 99.8\% accuracy
+      - Invented a framework based on isolation forest, 3-sigma, and KDE for clusters over 1000 virtual machines. Reduced 95\% of false alarms. 
+      - Contributed to two patents
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -183,4 +197,4 @@ awards:
 
 ## About Me
 
-Jingwen is a Ph.D. candidate in the Computer Science and Engineering Department at Michigan State University, working under the supervision of Prof.[Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). She earned her Master's degree from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where she worked with Prof.Chengzhong Xu and Dr. KeJiang Ye. Before that, she received her Bachelor's degree from [Hunan University](http://www-en.hnu.edu.cn/index.htm),  under the guidance of Prof.Sheng Xiao. Her research interests span Mobile Systems & Networks, Security, Distributed System and AI, with a recent focus on securing and advancing 5G IoT/IoV and O-RAN technologies.
+Jingwen is a Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](https://engineering.msu.edu/about/departments/cse), working under the supervision of Prof.[Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). She earned her Master's degree from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where she worked with Prof.Chengzhong Xu and Dr. KeJiang Ye. Before that, she received her Bachelor's degree from [Hunan University](http://www-en.hnu.edu.cn/index.htm),  under the guidance of Prof.Sheng Xiao. Her research interests span Mobile Systems & Networks, Security, Distributed System and AI, with a recent focus on securing and advancing 5G IoT/IoV and O-RAN technologies.
