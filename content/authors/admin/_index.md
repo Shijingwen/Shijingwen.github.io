@@ -188,9 +188,6 @@ awards:
   - title: 'Freshgogo Bug Bounty Reward'
     date: '2022-02-07'
     awarder: 'Freshgogo'
-  - title: 'MSU 2020, 2022 Graduate Summer Fellowship'
-    date: '2022-06-01'
-    awarder: 'Michigan State University'
 ---
 
 ## About Me
