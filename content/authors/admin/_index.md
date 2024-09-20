@@ -182,6 +182,9 @@ awards:
   - title: 'MobiCom’22 Best Community Paper Award Runner-Up'
     date: '2022-10-17'
     awarder: 'ACM'
+  - title: 'MobiCom’22 Best Community Paper Award Runner-Up'
+    date: '2022-10-17'
+    awarder: 'ACM'
 ---
 
 ## About Me
