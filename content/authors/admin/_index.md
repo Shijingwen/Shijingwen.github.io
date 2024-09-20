@@ -61,27 +61,27 @@ education:
     date_end: 2025-03-01
     summary: |
       Thesis on _Exploring and Addressing the Vulnerabilities of Multimedia Services over Mobile Networks: From
-Infrastructure to Devices_. Supervised by [Prof Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). Presented papers at 4 IEEE/ACM conferences with the contributions being published in 4 IEEE/ACM journals.
+Infrastructure to Devices_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://dl.acm.org/doi/pdf/10.1145/3636534.3649377'
-  - area: MSc Applied Computer Technology
+  - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.3/4.0
+      GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEng Information Security
-    institution: Hunan University
-    date_start: 2012-08-01
-    date_end: 2016-06-01
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.7/4.0
+      GPA: 3.4/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
