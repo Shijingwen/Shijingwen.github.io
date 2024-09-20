@@ -185,15 +185,15 @@ awards:
   - title: 'IEEE CNS’23 Student Travel Grant'
     date: '2023-10-02'
     awarder: 'NSF'
-  - title: 'MobiCom’22 Best Community Paper Award Runner-Up'
-    date: '2022-10-17'
+  - title: 'Freshgogo Bug Bounty Reward'
+    date: '2022-02-07'
+    awarder: 'Freshgogo'
+  - title: 'MSU 2020 2022 Graduate Summer Fellowship'
+    date: '2022-06-01'
     awarder: 'ACM'
-  - title: 'ACM Sigmobile’24 Research Highlights'
-    date: '2024-08-01'
-    awarder: 'ACM'
-  - title: 'MobiCom’22 Best Community Paper Award Runner-Up'
-    date: '2022-10-17'
-    awarder: 'ACM'
+  - title: 'First-Class Scholarship'
+    date: '2017-05-01'
+    awarder: 'University of Chinese Academy of Sciences'
 ---
 
 ## About Me
