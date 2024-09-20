@@ -194,6 +194,24 @@ awards:
   - title: 'First-Class Scholarship'
     date: '2017-05-01'
     awarder: 'University of Chinese Academy of Sciences'
+  - title: 'University of Chinese Academy of Sciences Excellent Student Cadre'
+    date: '2017-05-01'
+    awarder: 'University of Chinese Academy of Sciences'
+  - title: 'Google Girl Hackathon in Beijing, Best Practical Award'
+    date: '2017-01-01'
+    awarder: 'Google LLC.
+  - title: 'World Robot Conference 2016 Outstanding Volunteer'
+    date: '2017-01-01'
+    awarder: 'World Robot Conference'
+  - title: 'Graduate with Honor (Summa Cum Laude eq.)'
+    date: '2016-01-01'
+    awarder: 'Excellent Graduation Design Award'
+  - title: 'American Mathematical Contest in Modeling (MCM), Honorable Mention'
+    date: '2015-01-01'
+    awarder: 'Consortium for Mathematics and Its Applications (COMAP)'
+  - title: 'First Prize of National Students Innovation Training Program'
+    date: '2016-01-01'
+    awarder: 'Hunan University'
 ---
 
 ## About Me
