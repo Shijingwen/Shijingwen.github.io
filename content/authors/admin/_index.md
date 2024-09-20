@@ -61,7 +61,7 @@ education:
     date_end: 2020-12-31
     summary: |
       Thesis on "Exploring and Addressing the Vulnerabilities of Multimedia Services over Mobile Networks: From
-Infrastructure to Devices". Supervised by [Prof. Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). Presented papers at 4 IEEE/ACM conferences with the contributions being published in 4 IEEE/ACM journals.
+Infrastructure to Devices". Supervised by Prof. Guan-Hua Tu. Presented papers at 4 IEEE/ACM conferences with the contributions being published in 4 IEEE/ACM journals.
     button:
       text: 'Read Thesis'
       url: 'https://dl.acm.org/doi/pdf/10.1145/3636534.3649377'
