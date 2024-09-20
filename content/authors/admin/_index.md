@@ -62,8 +62,7 @@ education:
     summary: |
       GPA: 4.0/4.0
       
-      Thesis on _Exploring and Addressing the Vulnerabilities of Multimedia Services over Mobile System From Infrastructure to Devices_. Supervised by Prof. Guan-Hua Tu.  Presented papers at 4 IEEE/ACM conferences with the contributions being published in 4 IEEE/ACM journals.
-
+      Thesis on _Exploring and Addressing the Vulnerabilities of Multimedia Services over Mobile System From Infrastructure to Devices_. Supervised by Prof. Guan-Hua Tu. Presented papers at four IEEE/ACM conferences, with contributions published in four IEEE/ACM journals and one pending patent in collaboration with AT&T Labs.
     button:
       text: 'Read Thesis'
       url: 'https://dl.acm.org/doi/pdf/10.1145/3636534.3649377'
@@ -74,12 +73,9 @@ education:
     summary: |
       GPA: 3.3/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      Thesis on _Traffic Prediction and Uncertainty Interval Estimation for E-commerce Clusters_. Supervised by Prof.Chengzhong Xu and Dr.Kejiang Ye. Presented papers at 2 conferences and journals with 4 patents.
+  - area: BEng Information Security
+    institution: Hunan University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
