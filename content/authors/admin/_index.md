@@ -62,8 +62,8 @@ education:
     summary: |
       GPA: 4.0/4.0
       
-      Thesis on Exploring and Addressing the Vulnerabilities of Multimedia Services over Mobile Networks From
-Infrastructure to Devices. Supervised by Prof. Guan-Hua Tu. Presented papers at 4 IEEE and ACM conferences with the contributions being published in 4 IEEE and ACM journals.
+      Thesis on _Why LLMs are awesome_. Supervised by Prof. Guan-Hua Tu.  Presented papers at 4 IEEE/ACM conferences with the contributions being published in 4 IEEE/ACM journals.
+
     button:
       text: 'Read Thesis'
       url: 'https://dl.acm.org/doi/pdf/10.1145/3636534.3649377'
