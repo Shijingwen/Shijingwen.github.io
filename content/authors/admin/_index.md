@@ -72,13 +72,23 @@ Infrastructure to Devices". Supervised by [Prof. Guan-Hua Tu](https://www.cse.ms
     date_start: 2016-08-01
     date_end: 2019-06-01
     summary: |
-      Thesis on "Traffic Prediction and Uncertainty Interval Estimation for E-commerce Clusters". Supervised by Prof.Chengzhong Xu and Dr.Kejiang Ye. Presented papers at 2 conferences or journals with 4 patents. 
+      GPA: 3.4/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    date_start: 2012-08-01
-    date_end: 2016-06-01
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Thesis on "Visual Search Engine with Crawler System for Information Security Laws". Supervised by Prof.Sheng Xiao.
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Senior Associate Research Intern of IoT/IoV Innovation
     company_name: AT&T Lab
