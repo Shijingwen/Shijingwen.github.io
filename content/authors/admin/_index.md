@@ -55,24 +55,22 @@ interests:
   - Artificial Intelligence
   
 education:
-  - area: Ph.D. Computer Science
-    institution: Michigan State University
-    date_start: 2019-08-01
-    date_end: 2025-03-01
+  - area: PhD Computer Science
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 4.0/4.0
-      
       Thesis on "Exploring and Addressing the Vulnerabilities of Multimedia Services over Mobile Networks: From
 Infrastructure to Devices". Supervised by [Prof. Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). Presented papers at 4 IEEE/ACM conferences with the contributions being published in 4 IEEE/ACM journals.
     button:
       text: 'Read Thesis'
       url: 'https://dl.acm.org/doi/pdf/10.1145/3636534.3649377'
-  - area: MSc Applied Computer Technology
-    institution: University of Chinese Academy of Sciences
-    date_start: 2016-08-01
-    date_end: 2019-06-01
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
