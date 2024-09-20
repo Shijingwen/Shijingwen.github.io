@@ -60,12 +60,14 @@ education:
     date_start: 2019-08-01
     date_end: 2025-03-01
     summary: |
+     GPA: 4.0/4.0
+     
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      url: 'https://dl.acm.org/doi/pdf/10.1145/3636534.3649377'
+  - area: MSc Applied Computer Technology
+    institution: University of Chinese Academy of Sciences
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
