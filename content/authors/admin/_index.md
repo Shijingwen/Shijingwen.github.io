@@ -84,6 +84,11 @@ Infrastructure to Devices_. Supervised by [Prof Guan-Hua Tu](https://www.cse.msu
     date_end: 2016-06-01
     summary: |
       GPA: 3.7/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Senior Associate Research Intern of IoT/IoV Innovation
     company_name: AT&T Lab
