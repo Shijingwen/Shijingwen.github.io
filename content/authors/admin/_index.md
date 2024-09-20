@@ -3,7 +3,7 @@
 title: Jingwen Shi
 
 # Name pronunciation (optional)
-name_pronunciation: Pron. Jane-wen Shi
+name_pronunciation: Jane-wen Shi
 
 # Full name (for SEO)
 first_name: Jingwen
@@ -139,7 +139,7 @@ skills:
       - name: House flower
         description: ''
         percent: 100
-        icon: flower
+        icon: cat
       - name: Photography
         description: ''
         percent: 80
