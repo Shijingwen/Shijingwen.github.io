@@ -183,7 +183,7 @@ awards:
     date: '2022-10-17'
     awarder: 'ACM'
   - title: 'IEEE CNS'23 Student Travel Grant'
-    date: '2022-10-17'
+    date: '2022-10-01'
     awarder: 'NSF'
 ---
 
