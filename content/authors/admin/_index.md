@@ -182,9 +182,9 @@ awards:
   - title: 'MobiCom’22 Best Community Paper Award Runner-Up'
     date: '2022-10-17'
     awarder: 'ACM'
-  - title: 'IEEE CNS'23 Student Travel Grant'
-    date: '2023-10-2'
-    awarder: 'NSF'    
+- title: 'IEEE CNS'23 Student Travel Grant'
+    date: '2022-10-17'
+    awarder: 'NSF'
 ---
 
 ## About Me
