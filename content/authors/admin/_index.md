@@ -62,7 +62,7 @@ education:
     summary: |
       GPA: 4.0/4.0
       
-      Thesis on _Why LLMs are awesome_. Supervised by Prof. Guan-Hua Tu.  Presented papers at 4 IEEE/ACM conferences with the contributions being published in 4 IEEE/ACM journals.
+      Thesis on _Exploring and Addressing the Vulnerabilities of Multimedia Services over Mobile System From Infrastructure to Devices_. Supervised by Prof. Guan-Hua Tu.  Presented papers at 4 IEEE/ACM conferences with the contributions being published in 4 IEEE/ACM journals.
 
     button:
       text: 'Read Thesis'
