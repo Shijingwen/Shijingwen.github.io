@@ -60,6 +60,8 @@ education:
     date_start: 2019-08-01
     date_end: 2025-03-01
     summary: |
+      GPA: 4.0/4.0
+      
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
