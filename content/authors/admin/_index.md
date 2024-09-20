@@ -31,20 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:shijingw@msu.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Jingwen_Shi123
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Shijingwen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jingwen-shi-807178156
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9635-7551
 
 interests:
   - Artificial Intelligence
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-About me
+Jingwen is a Ph.D. candidate in the Computer Science and Engineering Department at Michigan State University, working under the supervision of Prof.[Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). She earned her Master's degree from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where she worked with Prof.Chengzhong Xu and Dr. KeJiang Ye. Before that, she received her Bachelor's degree from [Hunan University](http://www-en.hnu.edu.cn/index.htm),  under the guidance of Prof.Sheng Xiao. Her research interests span Mobile Systems & Networks, Security, Distributed System and AI, with a recent focus on securing and advancing 5G IoT/IoV and O-RAN technologies.
