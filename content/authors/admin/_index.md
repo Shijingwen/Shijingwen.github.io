@@ -76,8 +76,8 @@ education:
       Thesis on _Traffic Prediction and Uncertainty Interval Estimation for E-commerce Clusters_. Supervised by Prof.Chengzhong Xu and Dr.Kejiang Ye. Presented papers at 2 conferences or journals with 4 patents.
   - area: BEng Information Security
     institution: Hunan University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2012-09-01
+    date_end: 2016-06-01
     summary: |
       GPA: 3.7/4.0
       
@@ -126,7 +126,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: 3GPP, srsRAN, USRP, QXDM, O-RAN
+      - name: 3GPP, srsRAN, USRP,  O-RAN
         description: ''
         percent: 80
         icon: sniffer.svg
@@ -138,7 +138,7 @@ skills:
         description: ''
         percent: 100
         icon: ai.svg
-      - name: MongoDB, HBase, PostgreSQL, Hadoop
+      - name: MongoDB, PostgreSQL, Hadoop
         description: ''
         percent: 40
         icon: circle-stack
@@ -154,6 +154,10 @@ skills:
         description: ''
         percent: 100
         icon: flower.svg
+      - name: Handicraft
+        description: ''
+        percent: 40
+        icon: hand.svg
       - name: Photography
         description: ''
         percent: 80
@@ -165,38 +169,69 @@ languages:
   - name: English
     percent: 75
   - name: Spanish
-    percent: 25
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: 'ACM Sigmobile’24 Research Highlights'
+    date: '2024-08-01'
+    awarder: 'ACM'
+  - title: 'MobiCom’22 Best Community Paper Award Runner-Up'
+    date: '2022-10-17'
+    awarder: 'ACM'
+  - title: 'IEEE CNS 2023 Student Travel Grant'
+    date: '2023-10-2'
+    awarder: 'NSF'
+  - title: 'Freshgogo Bug Bounty Reward'
+    date: '2022-02-07'
+    awarder: 'NSF'
+  - title: 'MSU 2022 Graduate Summer Fellowship'
+    date: '2022-06-01'
+    awarder: 'Michigan State University'
+  - title: 'MSU 2020 Graduate Summer Fellowship'
+    date: '2020-06-01'
+    awarder: 'Michigan State University'
+  - title: 'First-Class Scholarship'
+    date: '2017-05-01'
+    awarder: 'University of Chinese Academy of Sciences'
+  - title: 'University of Chinese Academy of Sciences Excellent Student Cadre'
+    date: '2017-05-01'
+    awarder: 'University of Chinese Academy of Sciences'
+  - title: 'Google Girl Hackathon in Beijing, Best Practical Award'
+    date: '2017-01-01'
+    awarder: Google
+  - title: ' World Robot Conference 2016 Outstanding Volunteer'
+    date: '2017-01-01'
+    awarder: World Robot Conference
+  - title: 'Graduated with Honor（Summa Cum Laude eq.)'
+    date: '2016-01-01'
+  - title: 'Excellent Graduation Design Award'
+    date: '2016-01-01'
+    awarder: Hunan University
+  - title: 'First Prize of National Students Innovation Training Program'
+    date: '2016-01-01'
+    awarder: Hunan University
+  - title: 'American Mathematical Contest in Modeling (MCM), Honorable Mention'
+    date: '2015-01-01'
+    awarder: Consortium for Mathematics and Its Applications (COMAP)
+ - title: 'CTF of ZheJiang Province WenDing Cup, Third Prize'
+    date: '2015-01-01'
+    awarder: Zhejiang Computer Information System Integration Industry Association
+  - title: 'Robocup China Open, First Prize'
+    date: '2014-01-01'
+    awarder: Chinese Association of Automation, Chinese Robocup Committee
+  - title: 'National Encouragement Scholarship'
+    date: '2015-01-01'
+    awarder: Ministry of Education of the People's Republic of China
+  - title: 'Hunan University Excellent Student Cadre'
+    date: '2014-01-01'
+    awarder: Hunan University
+  - title: 'Hunan University 2013 \& 2014 First-Class Scholarship'
+    date: '2013-01-01'
+    awarder: Hunan University
 ---
 
 ## About Me
