@@ -199,7 +199,7 @@ awards:
     awarder: 'University of Chinese Academy of Sciences'
   - title: 'Google Girl Hackathon in Beijing, Best Practical Award'
     date: '2017-01-01'
-    awarder: 'Google LLC.
+    awarder: 'Google LLC.'
   - title: 'World Robot Conference 2016 Outstanding Volunteer'
     date: '2017-01-01'
     awarder: 'World Robot Conference'
