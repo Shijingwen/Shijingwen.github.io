@@ -185,9 +185,9 @@ awards:
   - title: 'IEEE CNS 2023 Student Travel Grant'
     date: '2023-10-2'
     awarder: 'National Science Foundation'
-  - title: 'Freshgogo Bug Bounty Reward'
-    date: '2022-02-07'
-    awarder: 'Freshgogo'
+  - title: 'IEEE CNS 2023 Student Travel Grant'
+    date: '2023-10-2'
+    awarder: 'National Science Foundation'
 ---
 
 ## About Me
