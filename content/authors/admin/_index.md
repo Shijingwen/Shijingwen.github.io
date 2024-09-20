@@ -79,9 +79,9 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.7/4.0
+      GPA: 3.7/4.5
       
-      Thesis on
+      Thesis on _Visual Search Engine with Crawler System for Information Security Laws_. Supervised by Prof.Sheng Xiao. Earned _Excellent Graduation Design Award_ and _Graduated with Honor（Summa Cum Laude eq.)_.
 work:
   - position: Senior Associate Research Intern of IoT/IoV Innovation
     company_name: AT&T Lab
