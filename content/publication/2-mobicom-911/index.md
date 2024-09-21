@@ -5,8 +5,8 @@ title: 'Uncovering insecure designs of cellular emergency services (911)'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Yiwen Hu*
-  - Min-Yue Chen*
+  - Yiwen Hu *
+  - Min-Yue Chen *
   - Guan-Hua Tu
   - Chi-Yu Li
   - Sihan Wang
