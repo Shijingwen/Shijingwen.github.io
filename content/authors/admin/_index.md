@@ -173,7 +173,7 @@ skills:
       - name: Movie
         description: ''
         percent: 40
-        icon: hand.svg
+        icon: 📽️
 languages:
   - name: Chinese
     percent: 100
