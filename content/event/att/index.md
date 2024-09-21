@@ -1,7 +1,7 @@
 ---
-title: When Mobile Equipment Security Lags Behind Mobile Infrastructure, Unveiling New IMS Vulnerabilities, Attacks and Countermeasures
+title: Detect the Undetected, An AI-Assisted Framework for Traffic Clustering and Anomaly Detection
 
-event: Harvard FAS Research and Academic Exchange
+event: AT&T Poster
 event_url: https://facultyresources.fas.harvard.edu/research-and-academic-exchange
 
 location: SEAS Service Center SEC 5.403
