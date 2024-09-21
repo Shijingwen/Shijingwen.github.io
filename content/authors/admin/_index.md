@@ -169,7 +169,7 @@ languages:
   - name: English
     percent: 75
   - name: Spanish
-    percent: 15
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
