@@ -10,7 +10,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-09-27T00:00:00Z"
 doi: "10.1109/JIOT.2023.3319986"
 
 # Schedule page publish date (NOT publication's date).
