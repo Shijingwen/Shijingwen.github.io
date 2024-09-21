@@ -169,11 +169,11 @@ skills:
       - name: Music
         description: ''
         percent: 100
-        icon: flower.svg
+        icon: 🎼
       - name: Movie
         description: ''
         percent: 40
-        icon: 📽️
+        icon: 🎬
 languages:
   - name: Chinese
     percent: 100
