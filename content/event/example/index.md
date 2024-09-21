@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: When Mobile Equipment Security Lags Behind Mobile Infrastructure: Unveiling New IMS Vulnerabilities, Attacks and Countermeasures
 
 event: Harvard FAS Research and Academic Exchange
 event_url: https://facultyresources.fas.harvard.edu/research-and-academic-exchange
