@@ -6,18 +6,25 @@ title: 'IMS is Not That Secure on Your 5G/4G Phones'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Sihan Wang
+  - Min-Yue Chen
+  - Guan-Hua Tu
+  - Tian Xie
+  - Man-Hsin Chen
+  - Yiwen Hu
+  - Chi-Yu Li
+  - Chunyi Peng
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2024-05-29T00:00:00Z'
+doi: '10.1145/3636534.3649377'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-05-29T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -34,7 +41,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Mobile Security
 
 # Display this page in the Featured widget?
 featured: true
