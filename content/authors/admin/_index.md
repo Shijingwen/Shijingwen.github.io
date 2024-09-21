@@ -133,11 +133,11 @@ skills:
       - name: Linux, Android, IOS
         description: ''
         percent: 80
-        icon: android.svg
+        icon: icons/android.svg
       - name: Tensorflow, Keras, scikit-learn
         description: ''
         percent: 100
-        icon: ai.svg
+        icon: icons/ai.svg
       - name: MongoDB, PostgreSQL, Hadoop
         description: ''
         percent: 40
@@ -153,7 +153,7 @@ skills:
       - name: House flower
         description: ''
         percent: 100
-        icon: flower.svg
+        icon: icons/flower.svg
       - name: Handicraft
         description: ''
         percent: 40
@@ -162,7 +162,22 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
+     - name: Visiting museum
+        description: ''
+        percent: 80
+        icon: camera
+     - name: Music
+        description: ''
+        percent: 80
+        icon: Movie
+     - name: Tennis
+        description: ''
+        percent: 80
+        icon: camera
+     - name: Tennis
+        description: ''
+        percent: 80
+        icon: camera
 languages:
   - name: Chinese
     percent: 100
