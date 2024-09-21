@@ -14,3 +14,4 @@ authors:
 tags:
   - Academic
 ---
+Our paper, "IMS is Not That Secure on Your 5G/4G Phones," has been accepted for ACM MobiCom '24! Looking forward to seeing you in Washington, D.C., from Nov. 18-22. (Feel free to reach out to me!)

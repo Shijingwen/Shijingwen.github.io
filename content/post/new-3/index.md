@@ -14,3 +14,4 @@ authors:
 tags:
   - Academic
 ---
+Our MobiCom '22 paper, 'Uncovering Insecure Designs of Cellular Emergency Services (911),' has been selected for the SIGMOBILE Research Highlights! It also received the AT&T Security Reward and was the Runner-Up for the Best Community Paper Award at ACM MobiCom '22.

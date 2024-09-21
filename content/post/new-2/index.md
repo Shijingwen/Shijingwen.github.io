@@ -14,3 +14,4 @@ authors:
 tags:
   - Academic
 ---
+I had an amazing summer internship at AT&T Labs :) ! Huge thanks to the entire team, especially Yaron Koral, Michael Albrecht, Amee Trivedi, Hasit Deni for the support and mentorship. Excited to continue our long-term collaboration on the Internet of Vehicles (IoV)!
