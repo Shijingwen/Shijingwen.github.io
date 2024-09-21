@@ -174,10 +174,6 @@ skills:
         description: ''
         percent: 40
         icon: hand.svg
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 languages:
   - name: Chinese
     percent: 100
@@ -246,4 +242,4 @@ awards:
 
 ## About Me
 
-Jingwen is a Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](https://engineering.msu.edu/about/departments/cse), working under the supervision of Prof.[Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). She earned her Master's degree from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where she worked with Prof.Chengzhong Xu and Dr. KeJiang Ye. Before that, she received her Bachelor's degree from [Hunan University](http://www-en.hnu.edu.cn/index.htm),  under the guidance of Prof.Sheng Xiao. Her research interests span Mobile Systems & Networks, Security, Distributed System and AI, with a recent focus on securing and advancing 5G IoT/IoV and O-RAN technologies.
+Jingwen is a Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](https://engineering.msu.edu/about/departments/cse), working under the supervision of Prof.[Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). She earned her Master's degree from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where she worked with Prof.Chengzhong Xu and Prof.KeJiang Ye. Before that, she received her Bachelor's degree from [Hunan University](http://www-en.hnu.edu.cn/index.htm),  under the guidance of Prof.Sheng Xiao. Her research interests span Mobile Systems & Networks, Security, Distributed System and AI, with a recent focus on securing and advancing 5G IoT/IoV and O-RAN technologies.
