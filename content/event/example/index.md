@@ -1,28 +1,28 @@
 ---
 title: Example Talk
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Harvard FAS Research and Academic Exchange
+event_url: https://facultyresources.fas.harvard.edu/research-and-academic-exchange
 
-location: Hugo Blox Builder HQ
+location: SEAS Service Center SEC 5.403
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 114 Western Ave
+  city: Boston
+  region: MA
+  postcode: '02134'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: When Mobile Equipment Security Lags Behind Cellular Infrastructure: Unveiling New IMS Vulnerabilities and Attacks 
+abstract: 'IMS (IP Multimedia Subsystem) is vital for delivering IP-based multimedia services in mobile networks. Despite constant upgrades by 3GPP over the past two decades to support heterogeneous radio access networks (e.g., 4G LTE, 5G NR, and Wi-Fi) and enhance IMS security, the focus has primarily been on cellular infrastructure. Consequently, IMS security measures on mobile equipment (ME), such as smartphones, lag behind rapid technological advancements. Our study reveals that mandated IMS security measures on ME fail to keep pace, resulting in new vulnerabilities and attack vectors, including denial of service (DoS) across all networks, named SMS source spoofing, IMS user privacy spying and successive, advanced privacy-based attacks (i.e., IMS cell location pinpointing), and covert communications over Video-over-IMS attacks.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-09-26T12:30:00Z'
+date_end: '2024-09-26T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2024-01-01T00:00:00Z'
 
 authors:
   - admin
