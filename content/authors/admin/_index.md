@@ -150,7 +150,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: House flower
+      - name: House plants
         description: ''
         percent: 100
         icon: flower.svg
@@ -162,15 +162,15 @@ skills:
         description: ''
         percent: 80
         icon: camera
-      - name: Hiking
+      - name: Tennis
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: House flower
+      - name: Music
         description: ''
         percent: 100
         icon: flower.svg
-      - name: Handicraft
+      - name: Movie
         description: ''
         percent: 40
         icon: hand.svg
