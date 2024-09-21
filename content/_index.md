@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
         Hi there,
-	I'm a Ph.D. candidate in Computer Science and Engineering at Michigan State University. 
+	I am a Ph.D. candidate in Computer Science and Engineering at Michigan State University. 
 	
 	My research focuses on securing and advancing mobile systems that support communication for 7.1 billion users globally. From the inception of 1G in 1979 to the future of 6G, each new generation of mobile networks brings not only exciting innovations but also subtle security challenges.
 
