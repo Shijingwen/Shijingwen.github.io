@@ -5,8 +5,8 @@ title: 'IMS is Not That Secure on Your 5G/4G Phones'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin 
-  - Sihan Wang(co-primary)
+  - admin *
+  - Sihan Wang *
   - Min-Yue Chen
   - Guan-Hua Tu
   - Tian Xie
