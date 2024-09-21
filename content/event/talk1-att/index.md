@@ -1,15 +1,15 @@
 ---
 title: Detect the Undetected, An AI-Assisted Framework for Traffic Clustering and Anomaly Detection
 
-event: AT&T Poster
-event_url: https://facultyresources.fas.harvard.edu/research-and-academic-exchange
+event: AT&T Innovation Poster Session
+# event_url: https://www.att.jobs/students
 
 location: SEAS Service Center SEC 5.403
 address:
-  street: 114 Western Ave
-  city: Boston
-  region: MA
-  postcode: '02134'
+  street: 1 AT&T Way
+  city: Bedminster
+  region: NJ
+  postcode: '07921'
   country: United States
 
 summary: A research talk on mobile security.
@@ -17,12 +17,12 @@ abstract: 'Despite 3GPP upgrades, IMS security on mobile devices lags behind, le
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-09-26T12:30:00Z'
-date_end: '2024-09-26T14:00:00Z'
+date: '2024-07-26T13:00:00Z'
+date_end: '2024-07-26T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-08-01T00:00:00Z'
+publishDate: '2024-07-01T00:00:00Z'
 
 authors:
   - admin
