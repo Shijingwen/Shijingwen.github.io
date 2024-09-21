@@ -12,7 +12,7 @@ address:
   postcode: '02134'
   country: United States
 
-summary: Despite 3GPP upgrades, IMS security on mobile devices lags behind, leading to vulnerabilities like DoS, SMS spoofing, privacy breaches, and covert communications.
+summary: An talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 
