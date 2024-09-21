@@ -12,7 +12,7 @@ address:
   postcode: '02134'
   country: United States
 
-summary: When Mobile Equipment Security Lags Behind Cellular Infrastructure: Unveiling New IMS Vulnerabilities and Attacks 
+summary: 'When Mobile Equipment Security Lags Behind Cellular Infrastructure: Unveiling New IMS Vulnerabilities and Attacks 
 abstract: 'IMS (IP Multimedia Subsystem) is vital for delivering IP-based multimedia services in mobile networks. Despite constant upgrades by 3GPP over the past two decades to support heterogeneous radio access networks (e.g., 4G LTE, 5G NR, and Wi-Fi) and enhance IMS security, the focus has primarily been on cellular infrastructure. Consequently, IMS security measures on mobile equipment (ME), such as smartphones, lag behind rapid technological advancements. Our study reveals that mandated IMS security measures on ME fail to keep pace, resulting in new vulnerabilities and attack vectors, including denial of service (DoS) across all networks, named SMS source spoofing, IMS user privacy spying and successive, advanced privacy-based attacks (i.e., IMS cell location pinpointing), and covert communications over Video-over-IMS attacks.'
 
 # Talk start and end times.
@@ -22,7 +22,7 @@ date_end: '2024-09-26T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2024-01-01T00:00:00Z'
+publishDate: '2024-01-01T00:00:00Z'
 
 authors:
   - admin
