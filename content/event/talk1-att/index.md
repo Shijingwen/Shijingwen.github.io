@@ -1,7 +1,7 @@
 ---
-title: Detect the Undetected, An AI-Assisted Framework for Traffic Clustering and Anomaly Detection
+title: Detect the Undetected - An AI-Assisted Framework for Traffic Clustering and Anomaly Detection
 
-event: AT&T Innovation Poster Session
+event: Internal invited talk at AT&T Labs by the Machine Learning group
 # event_url: https://www.att.jobs/students
 
 location: SEAS Service Center SEC 5.403
@@ -12,13 +12,13 @@ address:
   postcode: '07921'
   country: United States
 
-summary: A research talk on mobile security.
-abstract: 'Despite 3GPP upgrades, IMS security on mobile devices lags behind, leading to vulnerabilities like DoS, SMS spoofing, privacy breaches, and covert communications.'
+summary: A research talk introduced an AI framework for traffic demystification and anomaly detection.
+abstract: 'In mobile networks, 80\% of traffic has unknown IP destinations. We developed an AI-based framework for traffic clustering and anomaly detection, integrating machine learning, statistics, and signal processing.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-26T13:00:00Z'
-date_end: '2024-07-26T14:00:00Z'
+date: '2024-08-26T13:00:00Z'
+date_end: '2024-08-26T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

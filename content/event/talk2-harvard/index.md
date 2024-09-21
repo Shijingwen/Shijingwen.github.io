@@ -1,5 +1,5 @@
 ---
-title: When Mobile Equipment Security Lags Behind Mobile Infrastructure, Unveiling New IMS Vulnerabilities, Attacks and Countermeasures
+title: When Mobile Equipment Security Lags Behind Mobile Infrastructure - Unveiling New IMS Vulnerabilities, Attacks and Countermeasures
 
 event: Harvard FAS Research and Academic Exchange
 event_url: https://facultyresources.fas.harvard.edu/research-and-academic-exchange
@@ -12,7 +12,7 @@ address:
   postcode: '02134'
   country: United States
 
-summary: A research talk on mobile security.
+summary: A research talk on mobile security, focusing on IMS services such as SMS, calls, and 911.
 abstract: 'Despite 3GPP upgrades, IMS security on mobile devices lags behind, leading to vulnerabilities like DoS, SMS spoofing, privacy breaches, and covert communications.'
 
 # Talk start and end times.
