@@ -6,7 +6,7 @@ title: 'IMS is Not That Secure on Your 5G/4G Phones'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin 
-  - Sihan Wang (co-primary)
+  - Sihan Wang
   - Min-Yue Chen
   - Guan-Hua Tu
   - Tian Xie
