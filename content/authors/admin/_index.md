@@ -162,22 +162,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-     - name: Visiting museum
-        description: ''
-        percent: 80
-        icon: camera
-     - name: Music
-        description: ''
-        percent: 80
-        icon: Movie
-     - name: Tennis
-        description: ''
-        percent: 80
-        icon: camera
-     - name: Tennis
-        description: ''
-        percent: 80
-        icon: tennis
 languages:
   - name: Chinese
     percent: 100
