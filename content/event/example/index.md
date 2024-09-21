@@ -12,8 +12,8 @@ address:
   postcode: '02134'
   country: United States
 
-summary: A talk about mobile security of IMS services on 5G/4G phone.
-abstract: 'Despite 3GPP upgrades, IMS security on mobile devices lags behind, leading to vulnerabilities like DoS, SMS spoofing, privacy breaches, and covert communications.'
+summary: Despite 3GPP upgrades, IMS security on mobile devices lags behind, leading to vulnerabilities like DoS, SMS spoofing, privacy breaches, and covert communications.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 
 # Talk start and end times.
@@ -23,7 +23,7 @@ date_end: '2024-09-26T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-08-01T00:00:00Z'
+publishDate: '2024-01-01T00:00:00Z'
 
 authors:
   - admin
