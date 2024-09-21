@@ -17,8 +17,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'admin'
+  - 'Sihan Wang'
 
 date: '2024-05-29T00:00:00Z'
 doi: '10.1145/3636534.3649377'

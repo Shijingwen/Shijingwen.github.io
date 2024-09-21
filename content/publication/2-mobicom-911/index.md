@@ -19,8 +19,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Yiwen Hu'
+  - 'Min-Yue Chen'
 
 date: '2022-10-14T00:00:00Z'
 doi: '10.1145/3495243.3560534'
