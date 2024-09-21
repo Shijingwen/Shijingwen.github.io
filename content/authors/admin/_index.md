@@ -83,7 +83,7 @@ education:
       
       Thesis on _Visual Search Engine with Crawler System for Information Security Laws_. Supervised by Prof.Sheng Xiao. Earned _Excellent Graduation Design Award_ and _Graduated with Honor (Summa Cum Laude eq.)_.
 work:
-  - position: Senior Associate Research Intern of IoT/IoV Innovation
+  - position: Senior Associate Research Intern of Mobility Threat and Anomaly Detection Team and 5G Innovation Studio
     company_name: AT&T Lab
     company_url: ''
     company_logo: ''
