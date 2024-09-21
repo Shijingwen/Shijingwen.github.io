@@ -56,7 +56,7 @@ interests:
   
 education:
   - area: Ph.D. Computer Science
-    institution: Michigan State University
+    institution: [Michigan State University](https://engineering.msu.edu/about/departments/cse)
     date_start: 2019-08-01
     date_end: 2025-03-01
     summary: |
