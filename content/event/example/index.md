@@ -1,5 +1,5 @@
 ---
-title: When Mobile Equipment Security Lags Behind Cellular Infrastructure: Unveiling IMS Vulnerabilities, Attacks, and Countermeasures
+title: Example Talk
 
 event: Harvard FAS Research and Academic Exchange
 event_url: https://facultyresources.fas.harvard.edu/research-and-academic-exchange
@@ -12,7 +12,7 @@ address:
   postcode: '02134'
   country: United States
 
-summary: An talk using Hugo Blox Builder's Markdown slides feature.
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 
