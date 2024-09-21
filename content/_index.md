@@ -35,12 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Hi there,
-	I am a Ph.D. candidate in Computer Science and Engineering at Michigan State University. 
-	
-	My research focuses on securing and advancing mobile systems that support communication for 7.1 billion users globally. From the inception of 1G in 1979 to the future of 6G, each new generation of mobile networks brings not only exciting innovations but also subtle security challenges.
-
-	As a white hat hacker, I uncover vulnerabilities in mobile devices, wireless access networks, and core networks. Additionally, I utilize a variety of machine learning, deep learning, and statistical techniques to explore the complex interplay of science and technology in mobile networks.
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
         
         Please reach out to collaborate 😃
     design:
