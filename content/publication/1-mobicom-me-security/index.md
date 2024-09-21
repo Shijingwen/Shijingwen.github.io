@@ -17,8 +17,6 @@ authors:
 
 # Author notes (optional)
 author_notes:
- - admin
- - Sihan Wang
   - 'Equal contribution'
   - 'Equal contribution'
 
