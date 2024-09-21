@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Taming the Insecurity of Cellular Emergency Services (9–1-1): From Vulnerabilities to Secure Designs"
 authors:
   - Min-Yue Chen*
   - Yiwen Hu*
