@@ -162,6 +162,22 @@ skills:
         description: ''
         percent: 80
         icon: camera
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: House flower
+        description: ''
+        percent: 100
+        icon: flower.svg
+      - name: Handicraft
+        description: ''
+        percent: 40
+        icon: hand.svg
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 languages:
   - name: Chinese
     percent: 100
