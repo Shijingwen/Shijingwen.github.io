@@ -35,9 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Hi there,
+	
+        I am a white hat hacker and technology innovator focused on securing and advancing mobile systems that support communication for 7.1 billion users worldwide. From the inception of 1G in 1979 to the future of 6G, each new generation of mobile networks brings not only exciting innovations but also hidden security challenges.
+        
+        I uncover vulnerabilities in mobile devices, wireless access networks, and core networks, while applying cutting-edge machine learning, deep learning, and statistical techniques to explore the intricate relationship between science, technology, and mobile networks.
         
         Please reach out to collaborate 😃
     design:
