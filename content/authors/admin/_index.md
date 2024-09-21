@@ -73,7 +73,7 @@ education:
     summary: |
       GPA: 3.3/4.0
 
-      Thesis on _Traffic Prediction and Uncertainty Interval Estimation for E-commerce Clusters_. Supervised by Prof.Chengzhong Xu and Dr.Kejiang Ye. Presented papers at 2 conferences or journals with 4 patents.
+      Thesis on _Traffic Prediction and Uncertainty Interval Estimation for E-commerce Clusters_. Supervised by Prof.Chengzhong Xu and Prof.Kejiang Ye. Presented papers at 2 conferences or journals with 4 patents.
   - area: BEng Information Security
     institution: Hunan University
     date_start: 2012-09-01
@@ -94,18 +94,18 @@ work:
       - Developed an advanced AI-driven framework for traffic analysis and anomaly detection in 5G/4G networks, integrating machine learning, statistical analysis, and signal processing techniques
       - Submitted one patent
       - Assisted with the productization
-  - position: Research Intern
-    company_name: Los Alamos National Lab
+  - position: Research Intern of Applied Mathematics and Plasma Physics Group
+    company_name: Los Alamos National Lab 
     company_url: ''
     company_logo: ''
     date_start: 2021-06-01
     date_end: 2021-08-10
     summary: |
       Responsibilities include:
-      - Built a CPS simulation testbed. Developed an automated framework with SVM/SVD/FSM to re-construct the CPS from observation
+      - Built a Cyber-Pysical System (CPS) simulation testbed. Developed an automated framework with SVM/SVD/FSM to re-construct the CPS from observation
       - Achieved an accuracy of 97\%
       - Write the paper draft
-  - position: Research Intern
+  - position: Research Intern of Alibaba Cloud Team
     company_name: Alibaba
     company_url: ''
     company_logo: ''
@@ -114,7 +114,7 @@ work:
     summary: |
       Responsibilities include:
       - Cloud Traffic Prediction: Designed Bayesian Neural Networks to enhance CNN and LSTM for query (QPS) prediction at Taobao, achieving 99.8\% accuracy
-      - Invented a framework based on isolation forest, 3-sigma, and KDE for clusters over 1000 virtual machines. Reduced 95\% of false alarms. 
+      - Invented a framework based on machine learning and statistics for clusters over 1000 virtual machines. Reduced 95\% of false alarms. 
       - Contributed to two patents
       
 # Skills
@@ -178,7 +178,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 75
+    percent: 80
   - name: Spanish
     percent: 10
 
