@@ -12,7 +12,9 @@ address:
   country: United States
 
 summary: A research talk on mobile security, focusing on IMS services such as SMS, calls, and 911.
-abstract: 'The mobile systems that support communication for 7.1 billion users worldwide have evolved significantly. From the inception of 1G in 1979 to the development of future 6G technologies, each new generation of mobile networks brings not only exciting innovations but also hidden security challenges.'
+abstract: 'The mobile systems that support communication for 7.1 billion users worldwide have evolved significantly. From the inception of 1G in 1979 to the development of future 6G technologies, each new generation of mobile networks brings not only exciting innovations but also hidden security challenges.
+
+In this talk, I will summarize the vulnerabilities we've uncovered in both mobile devices and network infrastructure. For mobile devices, we found that security has lagged behind the advancements seen in network infrastructure, leading to new vulnerabilities and attack vectors such as cross-network denial of service (DoS), SMS source spoofing, user privacy breaches, and covert communications over video calls. For network infrastructure, we discovered that support for emergency services (911) on anonymous mobile equipment, which operates without a SIM card, introduces distinct behaviors compared to conventional mobile services, thereby expanding the attack surface of the mobile infrastructure.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
