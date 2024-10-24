@@ -3,7 +3,7 @@
 title: Jingwen Shi
 
 # Name pronunciation (optional)
-name_pronunciation: Jane     Shi
+name_pronunciation: Jane       Shi
 
 # Full name (for SEO)
 first_name: Jingwen
