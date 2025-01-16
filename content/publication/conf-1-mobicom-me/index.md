@@ -54,7 +54,7 @@ featured: true
 url_pdf: 'https://dl.acm.org/doi/10.1145/3636534.3649377'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-#url_poster: ''
+url_poster: 'https://github.com/Shijingwen/Shijingwen.github.io/blob/main/static/uploads/MobiCom24_Poster.pdf'
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
