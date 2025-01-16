@@ -71,7 +71,6 @@ education:
     date_start: 2016-08-01
     date_end: 2019-06-01
     summary: |
-      GPA: 3.3/4.0
 
       Thesis on _Traffic Prediction and Uncertainty Interval Estimation for E-commerce Clusters_. Supervised by Prof.Chengzhong Xu and Prof.Kejiang Ye. Presented papers at 2 conferences or journals with 4 patents.
   - area: BEng Information Security
@@ -79,7 +78,6 @@ education:
     date_start: 2012-09-01
     date_end: 2016-06-01
     summary: |
-      GPA: 3.7/4.0
       
       Thesis on _Visual Search Engine with Crawler System for Information Security Laws_. Supervised by Prof.Sheng Xiao. Earned _Excellent Graduation Design Award_ and _Graduated with Honor (Summa Cum Laude eq.)_.
 work:
@@ -243,3 +241,5 @@ awards:
 ## About Me
 
 Jingwen is a Ph.D. candidate in the Computer Science and Engineering Department at [Michigan State University](https://engineering.msu.edu/about/departments/cse), working under the supervision of Prof.[Guan-Hua Tu](https://www.cse.msu.edu/~ghtu/index.html). She earned her Master's degree from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where she worked with Prof.Chengzhong Xu and Prof.KeJiang Ye. Before that, she received her Bachelor's degree from [Hunan University](http://www-en.hnu.edu.cn/index.htm),  under the guidance of Prof.Sheng Xiao. Her research interests span **Mobile Systems & Networks, Security, Distributed Systems and AI for Systems**, with a recent focus on securing and advancing **5G IoT/IoV** and **O-RAN** technologies.
+
+Email: shijingw at msu dot edu
